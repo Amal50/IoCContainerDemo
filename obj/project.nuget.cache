@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBV3P5JVspuCtx40l1VOESaakOLEXSHueoSyPJVoirr7+XBSb5a+BPOsn1g1L4r4b7762I8p0BpBX+rbx1pREQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amala\\source\\repos\\IoCContainerDemo\\IoCContainerDemo\\IoCContainerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amala\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

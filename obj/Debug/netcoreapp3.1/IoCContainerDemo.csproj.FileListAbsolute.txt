@@ -1,0 +1,11 @@
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.exe
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.deps.json
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.runtimeconfig.json
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.runtimeconfig.dev.json
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.dll
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\bin\Debug\netcoreapp3.1\IoCContainerDemo.pdb
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\obj\Debug\netcoreapp3.1\IoCContainerDemo.csprojAssemblyReference.cache
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\obj\Debug\netcoreapp3.1\IoCContainerDemo.AssemblyInfoInputs.cache
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\obj\Debug\netcoreapp3.1\IoCContainerDemo.AssemblyInfo.cs
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\obj\Debug\netcoreapp3.1\IoCContainerDemo.dll
+C:\Users\amala\source\repos\IoCContainerDemo\IoCContainerDemo\obj\Debug\netcoreapp3.1\IoCContainerDemo.pdb
